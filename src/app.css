@@ -6,21 +6,21 @@
 
 @font-face {
     font-family: 'LC Mogi';
-    src: url('assets/LCMogi-VF.ttf');
+    src: url('/assets/LCMogi-VF.ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'LC Mogi';
-    src: url('assets/LCMogi-VF.ttf');
+    src: url('/assets/LCMogi-VF.ttf');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'LC Mogi';
-    src: url('assets/LCMogi-VF.ttf');
+    src: url('/assets/LCMogi-VF.ttf');
     font-weight: bold;
     font-style: normal;
 }
